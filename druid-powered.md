@@ -971,5 +971,11 @@ Zilingo's data collection infrastructure, processing pipeline and analytics stac
 
 [Zuoyebang](https://www.zybang.com/) is the most used K12 education platform, 7 out of every 10 K12 users are using Zuoyebang. At Zuoyebang Data Platform Group, we use the Druid in the advertising scene,  mainly related to advertising display, click, billing, and other functions. The performance and timeliness of druid can meet our OLAP queries very well.
 
+## TravelMyKashmir
+
+[TravelMyKashmir](https://www.travelmykashmir.com/)provides taxi and [bike rental services in Srinagar](https://www.bikerentalsrinagar.com).We have comfortable and well maintained cabs and bikes available. Just book a cab with us and we will make your journey safe, secure and comfortable one. 
+
+
+
 
 [Add Your Company](https://github.com/apache/druid-website-src/blob/master/druid-powered.md)
